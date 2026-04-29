@@ -1,4 +1,4 @@
-# Hi, I'm Amaani Bashir 👋
+# Hi, I'm Amaani! 👋
 
 🎓 MSc Economics @ Barcelona School of Economics  
 📊 Development Economist | Applied Econometrics | Policy & Data  
@@ -12,6 +12,8 @@ I am a **development economist** working at the intersection of **data, policy, 
 
 My work combines **rigorous empirical methods** with **institutional and policy experience**, allowing me to move between micro-level data analysis and macro-structural questions in development.
 
+I have also recently developed an interest in reconciling data to Game theory and information economics through mappings of social norms, instituions and historical evolution onto collective decisions. 
+
 I am particularly interested in:
 - 📈 **Industrial policy and structural transformation** (emerging focus)
 - 🏗️ **Infrastructure and investment-led growth models**
@@ -21,6 +23,15 @@ I am particularly interested in:
 - 📊 **Causal inference and applied econometrics in policy contexts**
 
 My approach is grounded in the idea that modern development challenges require **integrating data-driven methods with institutional understanding**, particularly in rapidly changing economic environments.
+
+---
+
+## 🔬 Current Work
+
+- Monetary policy transmission in HANK models (Brazil)  
+- Geospatial analysis of industrial zones and urban expansion (Vietnam)  
+- Political economy of production networks (India)
+- Experiments on 'Home Bias effects on stock markets', 'Inflation expectations in a New Keynesian laboratory' and 'Social Norms in Collective Action'
 
 ---
 
@@ -89,14 +100,6 @@ Python · R · Stata · MATLAB (Dynare) · SQL · LaTeX
 
 **Other**  
 ArcGIS / QGIS · Survey & household data · Policy-oriented research design  
-
----
-
-## 🔬 Current Work
-
-- Monetary policy transmission in HANK models (Brazil)  
-- Geospatial analysis of industrial zones and urban expansion (Vietnam)  
-- Political economy of production networks (India)  
 
 ---
 
