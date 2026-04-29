@@ -3,6 +3,8 @@
 🎓 MSc Economics @ Barcelona School of Economics  
 📊 Development Economist | Applied Econometrics | Policy & Data  
 🌍 Focus: 21st century growth, structural transformation, and development strategy  
+
+
 📄 Open to predoc and research opportunities.
 
 ---
