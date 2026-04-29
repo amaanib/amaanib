@@ -7,6 +7,7 @@
 
 📄 Open to predoc and research opportunities.
 🧰 Feel free to explore my projects (and repos) at the bottom on the page!
+
 ---
 
 ## 🧠 About Me
