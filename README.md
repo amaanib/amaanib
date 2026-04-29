@@ -5,7 +5,7 @@
 🌍 Focus: 21st century growth, structural transformation, and development strategy  
 
 
-📄 Open to predoc and research opportunities.
+📄 Open to predoc and research opportunities
 🧰 Feel free to explore my projects (and repos) at the bottom on the page!
 
 ---
