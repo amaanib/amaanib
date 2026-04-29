@@ -36,6 +36,7 @@ My approach is grounded in the idea that modern development challenges require *
 - Political economy of production networks (India)
 - Experiments on 'Home Bias effects on stock markets', 'Inflation expectations in a New Keynesian laboratory' and 'Social Norms in Collective Action'
 
+- Feel free to explore my repositories for other projects I have worked on.
 ---
 
 ## 🏢 Experience
