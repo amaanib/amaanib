@@ -1,18 +1,18 @@
 # Hi, I'm Amaani! 👋
 
 🎓 MSc Economics @ Barcelona School of Economics  
-📊 Development Economist | Applied Econometrics | Policy & Data  
-🌍 Focus: 21st century growth, structural transformation, and development strategy
+ Development Economist | Applied Econometrics | Policy & Data  
+ Focus: 21st century growth, structural transformation, and development strategy
 
 📄 Open to predoc and research opportunities
 
 
-🧰 Feel free to explore my projects (and repos) on my profile!
+ Feel free to explore my projects (and repos) on my profile!
 
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a **development economist** working at the intersection of **data, policy, and economic theory**, with a focus on designing and evaluating solutions for **late-stage and 21st century economic growth and development**.
 
@@ -21,18 +21,19 @@ My work combines **rigorous empirical methods** with **institutional and policy 
 I have also recently developed an interest in reconciling data to Game theory and information economics through mappings of social norms, instituions and historical evolution onto collective decisions. 
 
 I am particularly interested in:
-- 📈 **Industrial policy and structural transformation** (emerging focus)
-- 🏗️ **Infrastructure and investment-led growth models**
-- 📊 **Innovative data and Machine Learning solutions in data-sparse environments**
-- 🌱 **Climate transition and Just Transition frameworks**
-- 💳 **Macro-financial systems**, including pensions, household financialisation, and digital finance
-- 📊 **Causal inference and applied econometrics in policy contexts**
+-  **Industrial policy and structural transformation** (emerging focus)
+-  **Causal inference and applied econometrics in policy contexts**
+-  **Infrastructure and investment-led growth models**
+-  **Innovative data and Machine Learning solutions in data-sparse environments**
+-  **Climate transition and Just Transition frameworks**
+-  **Macro-financial systems**, including pensions, household financialisation, and digital finance
+
 
 My approach is grounded in the idea that modern development challenges require **integrating data-driven methods with institutional understanding**, particularly in rapidly changing economic environments.
 
 ---
 
-## 🔬 Current Work
+## Current Work
 
 - Monetary policy transmission in HANK models (Brazil)  
 - Geospatial analysis of industrial zones and urban expansion (Vietnam)  
@@ -40,7 +41,7 @@ My approach is grounded in the idea that modern development challenges require *
 - Experiments on 'Home Bias effects on stock markets', 'Inflation expectations in a New Keynesian laboratory' and 'Social Norms in Collective Action'
 ---
 
-## 🏢 Experience
+## Experience
 
 **New Development Bank (Shanghai)**  
 *Junior Professional – Strategy, Policy & Partnerships*  
@@ -58,9 +59,9 @@ My approach is grounded in the idea that modern development challenges require *
 
 ---
 
-## 📚 Publications & Writing
+## Publications & Writing
 
-### 📄 Research
+###  Research
 
 - **Remittances & Labour Supply (India Migration Report, Routledge)**  
   https://www.taylorfrancis.com/chapters/edit/10.4324/9781003315124-14/remittances-affect-labour-supply-decisions-household-level-india-amaani-bashir  
@@ -76,7 +77,7 @@ My approach is grounded in the idea that modern development challenges require *
 
 ---
 
-### 📰 Op-Eds
+###  Op-Eds
 
 - COVID-19 & behavioural change in India  
   https://www.thequint.com/opinion/behavioural-economics-behaviour-changes-social-distancing-quarantine-indians  
@@ -92,7 +93,7 @@ My approach is grounded in the idea that modern development challenges require *
 
 ---
 
-## 🧰 Technical Skills
+##  Technical Skills
 
 **Programming & Tools**  
 Python · R · Stata · MATLAB (Dynare) · SQL · LaTeX  
@@ -116,7 +117,7 @@ ArcGIS / QGIS · Survey & household data · Policy-oriented research design
 
 ---
 
-## ⭐ Research Direction
+## Research Direction
 
 I am particularly interested in research and collaboration that contributes to:
 - Scalable development strategies in emerging economies  
